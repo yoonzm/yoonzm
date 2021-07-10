@@ -1,7 +1,3 @@
 ### yoonzm 👋
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+![yoonzm's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonzm&show_icons=true&theme=radical)
